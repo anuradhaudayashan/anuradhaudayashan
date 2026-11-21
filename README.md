@@ -1,6 +1,6 @@
 # Hi, I'm Anuradha Udayashan Senanayake 👋
 
-Trader and self-taught builder from Colombo, Sri Lanka. I design and build desktop apps, mobile apps, AI assistants and motion graphics.
+Marketing professional and self-taught builder from Colombo, Sri Lanka. I design and build desktop apps, mobile apps, AI assistants and motion graphics.
 
 > **Showcase only.** This page shows what I have built. No source code, methods or calculations are published here.
 
