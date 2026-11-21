@@ -20,10 +20,7 @@ A desktop trading assistant with a team of AI agents working together on your ow
 - Native desktop app, licence activation (PRO / STANDARD)
 - Read-only: it never places orders
 
-<p align="center">
-  <img src="media/oracle/oracle_1.jpg" width="40%" alt="ORACLE screen">
-  <img src="media/oracle/oracle_2.jpg" width="40%" alt="ORACLE screen">
-</p>
+<p align="center"><img src="media/oracle/oracle_hud.jpg" width="900" alt="ORACLE command centre"></p>
 
 ---
 
